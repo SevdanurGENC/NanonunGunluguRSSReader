@@ -1,0 +1,75 @@
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.ServiceModel.Syndication.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.Xml.Serialization.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.ServiceModel.Syndication.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.Xml.Serialization.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\de\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\es\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\fr\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\it\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ja\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ko\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ru\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\NanonunGunluguRSSReader.csprojResolveAssemblyReference.cache
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\XapCacheFile.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ApplicationIcon.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Background.png
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\AppManifest.xaml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\sdkRSSReaderCS.xap
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.ServiceModel.Syndication.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.Xml.Serialization.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.ServiceModel.Syndication.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\System.Xml.Serialization.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\de\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\es\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\fr\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\it\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ja\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ko\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\ru\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Release\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\App.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\MainPage.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.g.resources
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\sdkRSSReaderCS.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Release\XapCacheFile.xml

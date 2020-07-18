@@ -1,0 +1,104 @@
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ApplicationIcon.png
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\Background.png
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.xap
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\MainPage.g.i.cs
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.g.resources
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Desktop\sdkRSSReaderCS\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\NanonunGunluguRSSReader.csprojResolveAssemblyReference.cache
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ApplicationIcon.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\Background.png
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\sdkRSSReaderCS.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\de\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\es\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\fr\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\it\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ja\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ko\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ru\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.ServiceModel.Syndication.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\NanonunGunluguRSSReader.csprojResolveAssemblyReference.cache
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\sdkRSSReaderCS.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\NanonunGunluguRSSReader\sdkRSSReaderCS\obj\Debug\XapCacheFile.xml
